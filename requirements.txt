@@ -68,7 +68,6 @@ patsy==0.5.2
 phik==0.12.2
 pickleshare==0.7.5
 Pillow==9.1.0
-pip==22.2.2
 pipreqs==0.4.11
 platformdirs==2.5.2
 pmdarima==1.8.5
